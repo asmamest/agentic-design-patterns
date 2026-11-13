@@ -531,7 +531,7 @@ This course is an independent educational project created to explore the enginee
 
 - **GitHub:** [@asmamest](https://github.com/asmamest)
 - **LinkedIn:** [Asma Mestaysser](https://www.linkedin.com/in/asmamestaysser/)
-- **Substack:** [The Brief](https://thebrief.substack.com/)
+- **Substack:** [The Brief](https://substack.com/@asmamestaysser/note/p-224512156?r=1qvln7)
 
 ---
 
