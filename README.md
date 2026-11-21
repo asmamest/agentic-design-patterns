@@ -56,6 +56,53 @@ By the end, you'll have a better understanding of how these patterns work indivi
 
 ---
 
+## Course Structure
+
+### Part One: Core Patterns
+
+1. **Chapter 1:** Prompt Chaining - Sequential task decomposition
+2. **Chapter 2:** Routing - Dynamic path selection
+3. **Chapter 3:** Parallelization - Concurrent processing
+4. **Chapter 4:** Reflection - Self-improvement mechanisms
+5. **Chapter 5:** Tool Use - External capability integration
+6. **Chapter 6:** Planning - Strategic task management
+7. **Chapter 7:** Multi-Agent - Collaborative systems
+
+### Part Two: Advanced Patterns
+
+8. **Chapter 8:** Memory Management - State persistence
+9. **Chapter 9:** Learning and Adaptation - Dynamic improvement
+10. **Chapter 10:** Model Context Protocol (MCP) - Standardized interfaces
+11. **Chapter 11:** Goal Setting and Monitoring - Objective tracking
+
+### Part Three: Production Patterns
+
+12. **Chapter 12:** Exception Handling and Recovery - Robust error management
+13. **Chapter 13:** Human-in-the-Loop - Human-AI collaboration
+14. **Chapter 14:** Knowledge Retrieval (RAG) - Information access patterns
+
+### Part Four: Enterprise Patterns
+
+15. **Chapter 15:** Inter-Agent Communication (A2A) - Agent networking
+16. **Chapter 16:** Resource-Aware Optimization - Efficient resource usage
+17. **Chapter 17:** Reasoning Techniques - Advanced decision-making
+18. **Chapter 18:** Guardrails/Safety Patterns - Risk mitigation
+19. **Chapter 19:** Evaluation and Monitoring - Performance tracking
+20. **Chapter 20:** Prioritization - Task management
+21. **Chapter 21:** Exploration and Discovery - Autonomous learning
+
+### Appendices
+
+- **Appendix A:** Advanced Prompting Techniques
+- **Appendix B:** AI Agentic: From GUI to Real world environment
+- **Appendix C:** Quick overview of Agentic Frameworks
+- **Appendix D:** Building an Agent with AgentSpace
+- **Appendix E:** AI Agents on the CLI
+- **Appendix F:** Under the Hood: Reasoning Engines
+- **Appendix G:** Coding agents
+
+---
+
 ## 🎯 Learning Objectives
 
 After completing the course, you should be able to:
