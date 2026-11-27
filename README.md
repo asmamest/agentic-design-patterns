@@ -188,7 +188,7 @@ Contributions should preserve the current folder and notebook naming conventions
 
 ## Attribution
 
-This educational repository follows and preserves material attributed to Antonio Gulli and Save the Children.
+This educational repository follows and preserves material attributed to Antonio Gulli.
 
 ## Author
 
